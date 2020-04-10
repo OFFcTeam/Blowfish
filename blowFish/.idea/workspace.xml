@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e52f7259-1d50-4db8-a5d5-392d5cfc3d5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/src/components/UserForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vectors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/css/creative.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/css/creative.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/fullsize/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/fullsize/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/fullsize/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/fullsize/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/thumbnails/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/thumbnails/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/thumbnails/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/img/portfolio/thumbnails/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/img/portfolio/thumbnails/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/js/creative.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/js/creative.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/js/creative.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/js/creative.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/less/creative.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/less/creative.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/less/mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/animated.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/core.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/icons.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/larger.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/path.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/screen-reader.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/stacked.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_path.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/font-awesome/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/magnific-popup/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/magnific-popup/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/magnific-popup/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/magnific-popup/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/magnific-popup/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/scrollreveal/scrollreveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/scrollreveal/scrollreveal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static/vendor/scrollreveal/scrollreveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/offCourseVue/public/vendor/scrollreveal/scrollreveal.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static1/img/Logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/static1/img/Logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static1/img/img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/static1/img/img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static1/img/sea.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/static1/img/sea.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static1/js/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/static1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/static1/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OFFcourse/src/main/resosurce/templates1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../OFFcourse/src/main/resources/templates1/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="834015202">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.117" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="7" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="2" />
+          <entry key="java" value="4386" />
+          <entry key="txt" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4386" />
+          <entry key="PLAIN_TEXT" value="28" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/BlowfishEncode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="325" column="30" selection-start-line="323" selection-start-column="12" selection-end-line="325" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/PBC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-802">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vectors.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/ECB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="31" column="22" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blowFish.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/BlowfishDecode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="287" column="23" lean-forward="true" selection-start-line="287" selection-start-column="23" selection-end-line="287" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/p_keys.txt" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/s_keys.txt" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/BlowfishEncode.java" />
+        <option value="$PROJECT_DIR$/src/BlowfishDecode.java" />
+        <option value="$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/ECB.java" />
+        <option value="$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/PBC.java" />
+        <option value="$PROJECT_DIR$/vectors.txt" />
+        <option value="$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/BlowfishEncode.java" />
+        <option value="$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/BlowfishDecode.java" />
+        <option value="$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-5" />
+    <option name="width" value="1069" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blowFish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blowFish" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blowFish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blowFish" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blowFish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blowFish" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="blowfish" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586480906556" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\microservices\blowFish\src\ru\itis\kpfu\blowfish" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="BlowfishDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlowfishDecode" />
+      <module name="blowFish" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlowfishEncode (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.itis.kpfu.blowfish.BlowfishEncode" />
+      <module name="blowFish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itis.kpfu.blowfish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlowfishEncode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlowfishEncode" />
+      <module name="blowFish" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.itis.kpfu.blowfish.Main" />
+      <module name="blowFish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.itis.kpfu.blowfish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="blowFish" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BlowfishEncode" />
+      <item itemvalue="Application.BlowfishDecode" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.BlowfishEncode (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.BlowfishEncode (1)" />
+        <item itemvalue="Application.BlowfishDecode" />
+        <item itemvalue="Application.BlowfishEncode" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e52f7259-1d50-4db8-a5d5-392d5cfc3d5f" name="Default Changelist" comment="" />
+      <created>1585255057574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585255057574</updated>
+      <workItem from="1585255068048" duration="5209000" />
+      <workItem from="1585399041869" duration="12466000" />
+      <workItem from="1585475452320" duration="14505000" />
+      <workItem from="1585580333957" duration="344000" />
+      <workItem from="1585767463115" duration="10384000" />
+      <workItem from="1585818621760" duration="2090000" />
+      <workItem from="1585837715926" duration="1193000" />
+      <workItem from="1585931883977" duration="195000" />
+      <workItem from="1586436307450" duration="11156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57542000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="855" height="828" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.692607" visible="true" weight="0.25653797" />
+      <window_info id="Structure" order="1" sideWeight="0.30739298" side_tool="true" visible="true" weight="0.25653797" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6936488" visible="true" weight="0.24411765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.30635118" side_tool="true" visible="true" weight="0.24411765" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49798658" weight="0.22873901" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/p_keys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/s_keys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blowFish.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/ECB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/PBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-802">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vectors.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/BlowfishEncode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="325" column="30" selection-start-line="323" selection-start-column="12" selection-end-line="325" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/BlowfishDecode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="287" column="23" lean-forward="true" selection-start-line="287" selection-start-column="23" selection-end-line="287" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/itis/kpfu/blowfish/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
